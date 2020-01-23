@@ -1,3 +1,6 @@
+; Xchel Diaz
+; 01/17/2020
+
 ;(define (fact n) (if (< n 2) 1 (* n (fact (- n 1 )))))
 ;(trace fact)
 ;(fact 5)

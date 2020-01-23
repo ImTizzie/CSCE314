@@ -1,3 +1,6 @@
+; Xchel Diaz
+; 01/15/2020
+
 ; File: helloWorld.scm
 ; Written by: Prof. Lupoli
 ; Date: 11/9/10
